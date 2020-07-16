@@ -24,6 +24,8 @@ Le nom de la base de donnée est "bankstars" et voici ses infos dans le .env : <
 **DB_USERNAME**=root <br/>
 **DB_PASSWORD**=mdpbdd <br/>
 
+le fichier.sql se trouve à la racine du projet sous le nom "bankstars.sql".
+
 Liste des utilisateurs déjà enregistrés :<br/>
 - **e-mail adress** : admin@admin.ad | **password** : mdpfictif <br/>
 - **e-mail adress** : modo@mail.com | **password** : mdpfictif <br/>
